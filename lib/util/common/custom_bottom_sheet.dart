@@ -42,8 +42,8 @@ class CustomBottomSheetContent extends StatelessWidget {
                       children: <Widget>[
                         Image.asset(
                           imageUrl,
-                          width: 40, // Adjust the size as needed
-                          height: 40, // Adjust the size as needed
+                          width: 35, // Adjust the size as needed
+                          height: 35, // Adjust the size as needed
                           fit: BoxFit.cover,
                         ),
                         const SizedBox(
@@ -53,14 +53,15 @@ class CustomBottomSheetContent extends StatelessWidget {
                           title,
                           style: AppTextstyle.ts36WM.copyWith(
                             color: AppColor.black,
-                            fontSize: 32.0,
+                            fontSize: 24.0,
                           ),
+                          maxLines: 3,
                         ),
                       ],
                     ),
                   ),
                   Padding(
-                    padding: const EdgeInsets.only(top: 6.0, right: 10.0),
+                    padding: const EdgeInsets.only(top: 0.0, right: 10.0),
                     child: IconButton(
                       icon: Image.asset(
                         'assets/icons/services_icons/small_icons/close.png',

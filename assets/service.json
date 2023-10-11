@@ -1,0 +1,121 @@
+{
+    "Services": [
+        {
+            "ServiceName": "Electrical",
+            "Details": [
+                {
+                    "ServiceType": "Wiring",
+                    "Description": "Our skilled electricians are masters at wiring. Whether you're building a new home, renovating, or need rewiring, we ensure your electrical connections are robust and up to code. Your safety is our priority."
+                },
+                {
+                    "ServiceType": "Electrical Board",
+                    "Description": "Your electrical panel is the heart of your home's power distribution. We specialize in installation, maintenance, and upgrades to meet your changing electrical demands. Let us manage your power efficiently and safely."
+                },
+                {
+                    "ServiceType": "Assets Repair",
+                    "Description": "Don't let a malfunctioning fan, AC, washing machine, or other appliances disrupt your daily life. Our technicians are experts at diagnosing and repairing these assets, ensuring your home runs smoothly."
+                }
+            ]
+        },
+        {
+            "ServiceName": "Civil Services",
+            "Details": [
+                {
+                    "ServiceType": "Brickwork",
+                    "Description": "Our expert masons meticulously lay each brick, ensuring structural integrity and aesthetic appeal. Whether it's a new wall, repair, or an intricate design, we've got you covered."
+                },
+                {
+                    "ServiceType": "Blockwork",
+                    "Description": "From sturdy foundation blocks to stylish decorative block walls, we excel in precision and strength. Trust us to build or repair block structures to your satisfaction."
+                },
+                {
+                    "ServiceType": "Tiling/Flooring",
+                    "Description": "Elevate your space with our top-notch tiling and flooring solutions. Our team of professionals can transform your floors and walls with a wide array of materials and designs."
+                },
+                {
+                    "ServiceType": "Kitchen Platform",
+                    "Description": "The kitchen is the heart of your home, and we make it beat with functionality and beauty. Our experts create durable and stylish kitchen platforms that meet your cooking and design needs."
+                }
+            ]
+        },
+        {
+            "ServiceName": "Finishing Work",
+            "Details": [
+                {
+                    "ServiceType": "New Painting",
+                    "Description": "Let our skilled painters breathe life into your walls, creating a fresh, vibrant ambiance in any room."
+                },
+                {
+                    "ServiceType": "New Furniture",
+                    "Description": "Explore our handpicked selection of elegant and functional furniture to add a touch of sophistication to your home."
+                },
+                {
+                    "ServiceType": "Re-Paint",
+                    "Description": "Give your interiors a new lease of life with a revitalizing coat of paint, making your space feel new again."
+                },
+                {
+                    "ServiceType": "Old Furniture Repair",
+                    "Description": "Cherish the memories associated with your old furniture by restoring and repairing them to their former glory."
+                }
+            ]
+        },
+        {
+            "ServiceName": "Waterproofing Services",
+            "Details": [
+                {
+                    "ServiceType": "Toilet/Bath",
+                    "Description": "Ensure your wet areas remain dry and free from moisture-related problems, preserving their integrity and cleanliness."
+                },
+                {
+                    "ServiceType": "Kitchen",
+                    "Description": "Safeguard your kitchen from water damage, keeping it in top condition and extending its life."
+                },
+                {
+                    "ServiceType": "Balcony",
+                    "Description": "Enjoy the outdoors without worrying about leaks. Our waterproofing solutions ensure your balcony stays dry and durable."
+                },
+                {
+                    "ServiceType": "Terrace",
+                    "Description": "Your terrace is exposed to the elements. We make sure it's well-protected, preventing water from causing damage and inconvenience."
+                },
+                {
+                    "ServiceType": "External Wall Waterproofing",
+                    "Description": "Shield your home's exterior from the weather with our external wall waterproofing, adding an extra layer of protection."
+                },
+                {
+                    "ServiceType": "Leakages & Dampness Repairing",
+                    "Description": "Count on us to revitalize and renew your living spaces, protecting them from the damaging impact of leaks and dampness, and ensuring your home remains a safe and comfortable haven."
+                }
+            ]
+        },
+        {
+            "ServiceName": "Mechanical Service",
+            "Details": [
+                {
+                    "ServiceType": "Grill",
+                    "Description": "Enhance your home's security and aesthetics with our meticulously crafted grills, providing protection and style."
+                },
+                {
+                    "ServiceType": "Aluminium Window",
+                    "Description": "Experience the beauty of natural light and outside views with our modern, energy-efficient aluminum windows."
+                },
+                {
+                    "ServiceType": "Safety Door",
+                    "Description": "Security meets elegance with our safety doors, offering peace of mind without compromising on design."
+                },
+                {
+                    "ServiceType": "Railing",
+                    "Description": "Transform your spaces with our handcrafted railings, adding safety and style to staircases, balconies, and more."
+                },
+                {
+                    "ServiceType": "Kitchen Trolley",
+                    "Description": "Maximize your kitchen's efficiency and organization with our custom-built kitchen trolleys designed for your unique needs."
+                },
+                {
+                    "ServiceType": "New Product Making by MS/SS",
+                    "Description": "Discover endless possibilities with our custom-made metal products. We can bring your vision to life with precision and quality, creating innovative solutions for your home."
+                }
+            ]
+        }
+    ]
+}
