@@ -29,6 +29,12 @@ class CommonFunction {
     height = height - padding.top - padding.bottom - kBottomNavigationBarHeight;
     return height;
   }
+  static double getHeightofBottomNavbar(BuildContext context) {
+    double height = MediaQuery.of(context).size.height;
+    var padding = MediaQuery.of(context).viewPadding;
+    height = height - padding.top - padding.bottom - kBottomNavigationBarHeight;
+    return height;
+  }
 
   // Function to return height without BottomNavbar and Appbar
   static double getHeightWithoutBottomNavbarAndAppbar(BuildContext context) {

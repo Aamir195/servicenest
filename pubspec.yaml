@@ -19,8 +19,7 @@ publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 version: 1.0.0+1
 
 environment:
-  sdk: '>=3.0.5 <4.0.0'
-
+  sdk: '>=2.18.4 <3.0.0'
 # Dependencies specify other packages that your package needs in order to work.
 # To automatically upgrade your package dependencies to the latest versions
 # consider running `flutter pub upgrade --major-versions`. Alternatively,
@@ -38,7 +37,14 @@ dependencies:
   http:
   # Local Storage
   get_storage:
+  # UI
   flutter_glow: ^0.3.0
+  carousel_slider: ^4.2.1
+  flutter_custom_carousel_slider: ^1.2.0
+  # Firebase
+  firebase_core:
+  cloud_firestore:
+
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
@@ -51,6 +57,7 @@ dev_dependencies:
   flutter_lints: ^2.0.2
   # Dependency for Native Splash Screen
   flutter_native_splash: ^2.2.19
+  change_app_package_name:
 
 
 flutter_native_splash:
@@ -84,6 +91,13 @@ flutter:
     - assets/images/
     - assets/icons/
     - assets/icons/signup_icons/
+    - assets/icons/bottom_sheet/
+    - assets/icons/home_icons/
+    - assets/icons/recommended_services_icons/
+    - assets/icons/services_icons/small_icons/
+    - assets/icons/civil_services_icons/
+    - assets/icons/finishing_services_icons/
+    - assets/icons/waterproofing_services_icons/
 
   fonts:
     - family: thin
